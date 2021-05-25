@@ -1,0 +1,1 @@
+ansible --inventory=./hosts myserver --module-name=ping  
